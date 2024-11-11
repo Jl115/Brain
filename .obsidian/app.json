@@ -5,5 +5,6 @@
   "foldIndent": true,
   "defaultViewMode": "preview",
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "5. Attachments"
+  "attachmentFolderPath": "5. Attachments",
+  "promptDelete": false
 }

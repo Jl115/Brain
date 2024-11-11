@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Obsidian/0.1 Templates/Untitled.md",
+                "file": "test.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "test"
             }
           }
         ]
@@ -195,13 +195,22 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false,
       "homepage:Open homepage": false,
-      "periodic-notes:Open this week": false
+      "periodic-notes:Open this week": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled 1.md",
+    "test.md",
+    "Home.md",
+    "test.svg",
+    "0. Obsidian/0.1 Templates/DayliNoteDrawing.md",
+    "{{title}}.md",
+    "1. Projects/test.md",
+    "0. Obsidian/0.1 Templates/Dayli.md",
     "START HERE.md",
-    "0. Obsidian/0.1 Templates/Untitled.md",
     "Untitled",
     "0. Obsidian/0.1 Templates",
     "0. Obsidian",
