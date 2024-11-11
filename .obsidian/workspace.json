@@ -1,20 +1,20 @@
 {
   "main": {
-    "id": "85f143f3fa78ae48",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "16f08ce4b4a64184",
+        "id": "4509724f8bf84da7",
         "type": "tabs",
         "children": [
           {
-            "id": "4f5a0841be08ebf6",
+            "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -140,6 +140,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -149,7 +150,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f019cb7895abf33c",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "gitignore"
   ]

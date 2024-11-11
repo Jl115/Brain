@@ -4,5 +4,11 @@
   "obsidian-tasks-plugin",
   "calendar",
   "obsidian-kanban",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-outliner",
+  "homepage",
+  "periodic-notes",
+  "metadata-menu",
+  "obsidian-file-color",
+  "slash-commander"
 ]

@@ -1,5 +1,11 @@
 {
   "baseFontSize": 17,
-  "cssTheme": "",
-  "theme": "obsidian"
+  "cssTheme": "AnuPpuccin",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "color-snippets",
+    "custom-rainbow-colors",
+    "extended-colorschemes",
+    "floating-search-bar"
+  ]
 }
