@@ -1,11 +1,17 @@
 {
-  "baseFontSize": 17,
+  "baseFontSize": 12,
   "cssTheme": "AnuPpuccin",
   "theme": "obsidian",
   "enabledCssSnippets": [
     "color-snippets",
     "custom-rainbow-colors",
     "extended-colorschemes",
-    "floating-search-bar"
-  ]
+    "floating-search-bar",
+    "floating-status-bar",
+    "custom-background"
+  ],
+  "interfaceFontFamily": "JetBrains Mono",
+  "textFontFamily": "JetBrainsMono",
+  "monospaceFontFamily": "JetBrains Mono",
+  "translucency": false
 }
