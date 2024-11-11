@@ -10,18 +10,7 @@ excalidraw-plugin: parsed
 tags: [excalidraw]
 ---
 
-<%* const exec = await tp.system.suggester(["Yes", "No"], [true, false],false,"do you wanna name the file?");
 
-if (exec==true)
-{
-	await tp.file.rename(await tp.system.prompt("name the drawing", "be atomic")+".excalidraw");
-	const execi = await tp.system.suggester(["Yes", "No"], [true, false],false,"is this file extracted from somewhere?");
-	if (execi == true)
-	{
-		tR+="extracted-from::[["+ await tp.system.suggester((item) => item.basename, app.vault.getMarkdownFiles()).basename+"]]"
-	}
-}
-%>
 ==⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 javascript
 %%
