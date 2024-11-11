@@ -149,6 +149,8 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f5a0841be08ebf6",
-  "lastOpenFiles": []
+  "active": "f019cb7895abf33c",
+  "lastOpenFiles": [
+    "gitignore"
+  ]
 }
