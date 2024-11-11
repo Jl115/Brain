@@ -23,21 +23,6 @@
             }
           },
           {
-            "id": "ee7f44ec7a29978c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Obsidian/0.1 Templates/DayliNoteDrawing.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DayliNoteDrawing"
-            }
-          },
-          {
             "id": "30c156545fc78a84",
             "type": "leaf",
             "state": {
@@ -52,8 +37,7 @@
               "title": "DayliNoteDrawing"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,11 +214,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ee7f44ec7a29978c",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "0. Obsidian/0.1 Templates/DayliNoteDrawing.md",
     "Untitled/test.md",
     "Untitled/test.svg",
-    "0. Obsidian/0.1 Templates/DayliNoteDrawing.md",
     "0. Obsidian/0.1 Templates/Drawing 2024-11-11 22.30.06.md",
     "Home.md",
     "1. Projects/test.md",
